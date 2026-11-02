@@ -1,10 +1,9 @@
 <a href="https://ghfind.com/u/ytbetafish?ref=badge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/ytbetafish?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/ytbetafish?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/ytbetafish?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/ytbetafish?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
-
 <!--
 **ytbetafish/ytbetafish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
